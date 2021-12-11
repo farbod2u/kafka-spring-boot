@@ -1,4 +1,4 @@
-package ir.farbod.kafka.kafkaspringboot.controller;
+package ir.farbod.kafka.producer.controller;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.kafka.core.KafkaTemplate;

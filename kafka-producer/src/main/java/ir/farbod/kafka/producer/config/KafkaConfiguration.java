@@ -1,6 +1,6 @@
-package ir.farbod.kafka.kafkaspringboot.config;
+package ir.farbod.kafka.producer.config;
 
-import ir.farbod.kafka.kafkaspringboot.entity.Person;
+import ir.farbod.kafka.producer.entity.Person;
 import org.apache.kafka.clients.producer.ProducerConfig;
 import org.apache.kafka.common.serialization.StringSerializer;
 import org.springframework.context.annotation.Bean;

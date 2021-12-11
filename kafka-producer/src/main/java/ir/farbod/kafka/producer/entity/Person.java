@@ -1,4 +1,4 @@
-package ir.farbod.kafka.kafkaspringboot.entity;
+package ir.farbod.kafka.producer.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
