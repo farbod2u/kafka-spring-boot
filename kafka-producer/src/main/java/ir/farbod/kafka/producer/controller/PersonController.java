@@ -1,6 +1,6 @@
 package ir.farbod.kafka.producer.controller;
 
-import ir.farbod.kafka.kafkaspringboot.entity.Person;
+import ir.farbod.kafka.producer.entity.Person;
 import lombok.RequiredArgsConstructor;
 import org.springframework.kafka.core.KafkaTemplate;
 import org.springframework.web.bind.annotation.PostMapping;
