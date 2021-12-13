@@ -11,5 +11,5 @@ public class Person {
 
     private String firstName;
     private String lastName;
-    private Long salary;
+    private Double salary;
 }
